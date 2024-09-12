@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=EB+Garamond:ital,wght@1,600&family=Hedvig+Letters+Serif:opsz@12..24&family=Nova+Square&family=Roboto+Condensed&display=swap");
 
 body {
-  font-family: "Nova Square", sans-serif !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
   background-image: repeating-linear-gradient(
       45deg,
       rgba(194, 194, 194, 0.1) 0px,
